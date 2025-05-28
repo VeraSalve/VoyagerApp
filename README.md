@@ -1,2 +1,2 @@
 # VoyagerApp
-The application allows you to load a file with the unloading of electricity debtors, filter by amount and radius on the map. This is necessary so that the employee who serves notices to debtors does not walk around the city, but processes only the addresses of a certain area.
+This is my graduation project, which I developed at the university. The project was developed for the needs of the accounts receivable department of Energosbyt company. The application allows you to load a file with the unloading of electricity debtors, filter by amount and radius on the map. This is necessary so that the employee who serves notices to debtors does not walk around the city, but processes only the addresses of a certain area.
